@@ -7,16 +7,22 @@
     "util",
     "utility"
   ],
-  "version": "2.88.1",
+  "version": "2.88.2-lineaje-01",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "https://github.com/lineaje-labs-gos/request-request"
   },
   "bugs": {
     "url": "http://github.com/request/request/issues"
   },
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "engines": {
     "node": ">= 6"
   },
